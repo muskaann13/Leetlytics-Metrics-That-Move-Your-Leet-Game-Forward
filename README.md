@@ -62,7 +62,7 @@
   </ul>
 
   <h2 id="demo">Demo</h2>
-  <img width="400px" height="400px" alt="leetlytics" src="https://github.com/user-attachments/assets/b8bd281a-5da5-4905-94b3-5862f05e9918" />
+  <img width="600px" height="600px" alt="leetlytics" src="https://github.com/user-attachments/assets/b8bd281a-5da5-4905-94b3-5862f05e9918" />
 
 
   <h2 id="getting-started">Getting Started</h2>
