@@ -44,9 +44,7 @@
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#api-reference">API Reference</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
   </ul>
 
   <h2 id="features">Features</h2>
@@ -64,7 +62,7 @@
   </ul>
 
   <h2 id="demo">Demo</h2>
-  <img width="1920" height="1080" alt="leetlytics" src="https://github.com/user-attachments/assets/b8bd281a-5da5-4905-94b3-5862f05e9918" />
+  <img width="400px" height="400px" alt="leetlytics" src="https://github.com/user-attachments/assets/b8bd281a-5da5-4905-94b3-5862f05e9918" />
 
 
   <h2 id="getting-started">Getting Started</h2>
