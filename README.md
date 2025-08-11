@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<!-- <head>
   <meta charset="UTF-8">
   <title>Leetlytics README</title>
   <style>
@@ -29,7 +29,7 @@
       margin-left: 1.2em;
     }
   </style>
-</head>
+</head> -->
 <body>
 
   <h1>Leetlytics</h1>
